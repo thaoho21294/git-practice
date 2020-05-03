@@ -1,4 +1,4 @@
-A project to practice git command
+## A project to practice git command
 
 1. Connecting to GitHub with SSH
 
@@ -7,3 +7,17 @@ A project to practice git command
 3. add collaborators
 
 4. git cherry-pick commit "add file2" from feature-01 to feature-02
+
+<img alt="git tree" src="./img/git1.png" />
+
+5. git merge feature-01 to dev
+
+<img alt="git tree" src="./img/git2.PNG" />
+
+6. git rebase feature-02 to dev
+
+<img alt="git tree" src="./img/git3.PNG" />
+
+7. merge pull request from feature-02 to master
+
+<img alt="git tree" src="./img/git4.PNG" />
