@@ -8,7 +8,7 @@
 
 4. git cherry-pick commit "add file2" from feature-01 to feature-02
 
-<img alt="git tree" src="./img/git1.png" />
+<img alt="git tree" src="./img/git1.PNG" />
 
 5. git merge feature-01 to dev
 
